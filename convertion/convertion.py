@@ -1,5 +1,5 @@
 
-def converte(numero, sistema1, sistema2):
+def convert(numero, sistema1, sistema2):
     if sistema1 == "numerico":
         sobra = int(numero) % 5
         inteiro = int(numero) / 5
